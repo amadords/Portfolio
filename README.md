@@ -5,20 +5,20 @@
 </p>
 
 # Daniel Amador
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Analista e Cientista de Dados - Self-employed</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Embora não tenha atuado no ramo do direito de forma profissional, durante o período da academia pude viver na prática o ramo e desenvolver habilidades analíticas e de oratória, seja na 2ª Vara Cível da Comarca de Mossoró/RN, seja no Escritório de Advocava FPSV junto à presidente local da OAB/RN e na própria universidade. Além disso, entre 2018 e 2019 trabalhei em parceria durante 11 meses com o **Jobs Coworking** onde pude exercitar a arte do Networking e começar a trabalhar com dados, o que faço até hoje de forma independente, para diversas empresas da cidade, desde análise dos dados até previsão de vendas com com séries temporais.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar e diversos cursos na área de Ciência de Dados, com atenção em especial aos cursos de Data Science do Zero do **Minerando** Dados onde pude trabalhar com projetos reais aplicáveis e/ou aplicados ao cenário real e Estatística com a **Estatidados**, onde pude aprofundar no conhecimento estatístico descritivo e probabilístico.
 
-**Background in:** Python, Machine Learning, and Descriptive Statistics
+**Background in:** Python, Machine Learning e Estatistica Descritiva.
 
 **Links:**
 * [LinkedIn](https://github.com/danielamador12)
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## Projetos e Tutoriais:
 Veja os tutoriais publicados no Medium:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
@@ -29,16 +29,6 @@ Veja os tutoriais publicados no Medium:
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
-## Códigos:
-Veja os códigos publicados no GitHub:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 ---
 
 
