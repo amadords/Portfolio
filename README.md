@@ -19,7 +19,7 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 
 
 ## Projetos e Tutoriais:
-Veja os tutoriais publicados no Medium:
+Veja os tutoriais publicados no GitHub:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
