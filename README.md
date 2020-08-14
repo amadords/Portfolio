@@ -9,7 +9,7 @@
 
 Embora não tenha atuado no ramo do direito de forma profissional, durante o período da academia pude viver na prática o ramo e desenvolver habilidades analíticas e de oratória, na 2ª Vara Cível da Comarca de Mossoró/RN, no Escritório de Advocacia FPSV junto à presidente local da OAB/RN e na própria universidade, elevando as habilidade já adquiridas em 5 anos como Professor Voluntário em *Informática*, *Matemática* e *Português* na rede pública. Além disso, entre 2018 e 2019 trabalhei em parceria durante 11 meses com o **Jobs Coworking** onde pude exercitar a arte do Networking e começar a trabalhar com dados, o que faço até hoje de forma independente, para diversas empresas da cidade, desde *análise dos dados* até *previsão de vendas* com com séries temporais.
 
-Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar e diversos cursos na área de Ciência de Dados, com atenção em especial aos cursos de Data Science do Zero do **Minerando** Dados onde pude trabalhar com projetos reais aplicáveis e/ou aplicados ao cenário real e Estatística com a **Estatidados**, onde pude aprofundar no conhecimento estatístico descritivo e probabilístico.
+Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar e diversos cursos na área de Ciência de Dados, com atenção em especial aos cursos de Data Science do Zero do **Minerando Dados** onde pude trabalhar com projetos reais aplicáveis e/ou aplicados ao cenário real e Estatística com a **Estatidados**, onde pude aprofundar no conhecimento estatístico descritivo e probabilístico.
 
 **Background in:** Python, Machine Learning e Estatistica Descritiva.
 
