@@ -5,7 +5,7 @@
 </p>
 
 # Daniel Amador
-<sub>*Analista e Cientista de Dados - Self-employed</sub>
+<sub>*Analista e Cientista de Dados - Self-employed*</sub>
 
 Embora não tenha atuado no ramo do direito de forma profissional, durante o período da academia pude viver na prática o ramo e desenvolver habilidades analíticas e de oratória, seja na 2ª Vara Cível da Comarca de Mossoró/RN, seja no Escritório de Advocava FPSV junto à presidente local da OAB/RN e na própria universidade. Além disso, entre 2018 e 2019 trabalhei em parceria durante 11 meses com o **Jobs Coworking** onde pude exercitar a arte do Networking e começar a trabalhar com dados, o que faço até hoje de forma independente, para diversas empresas da cidade, desde análise dos dados até previsão de vendas com com séries temporais.
 
