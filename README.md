@@ -20,39 +20,45 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
-* **Lidando com Pré-processamento de Dados** https://bit.ly/3hoH6iP
+* **Antes de Trabalhar com os Dados**
 
-* **Lidando com Classes Desbalanceadas** https://bit.ly/3hk3YQE
+  * **Lidando com Pré-processamento de Dados** https://bit.ly/3hoH6iP
 
-* **Titanic (análise básica)** https://bit.ly/3iXvnbs
+  * **Lidando com Classes Desbalanceadas** https://bit.ly/3hk3YQE
 
-* **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
+* **Conhecendo Algoritmos**
 
-* **Conhecendo o algoritmo KMeans (Base de Dados Iris)** https://bit.ly/31llGha
+  * **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
 
-* **Conhecendo o algoritmo KNN (Base de Dados Iris)** https://bit.ly/31hGHZZ
+  * **Conhecendo o algoritmo KMeans (Base de Dados Iris)** https://bit.ly/31llGha
 
-* **Conhecendo o algoritmo SVM (Base de Dados Iris)** https://bit.ly/31iaf9S
+  * **Conhecendo o algoritmo KNN (Base de Dados Iris)** https://bit.ly/31hGHZZ
 
-* **Conhecendo o algoritmo Naive Bayes (Base de Dados Twitter)** https://bit.ly/3aNP6Hx
+  * **Conhecendo o algoritmo SVM (Base de Dados Iris)** https://bit.ly/31iaf9S
 
-* **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco)** https://bit.ly/2EkACTI
+  * **Conhecendo o algoritmo Naive Bayes (Base de Dados Twitter)** https://bit.ly/3aNP6Hx
 
-* **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
+  * **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco)** https://bit.ly/2EkACTI
 
-* **Conhecendo o algoritmo Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
+  * **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
 
-* **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
+  * **Conhecendo o algoritmo Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
 
-    * **Classificando Digitos de escritos à mão** https://bit.ly/32eL7QB
+  * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
+  
+ * **Projetos**:
+
+  * **Titanic (análise básica)** https://bit.ly/3iXvnbs
+
+  * **Classificando Digitos de escritos à mão** https://bit.ly/32eL7QB
 
   * **Projeto ML01** https://bit.ly/2Qf68Vw
 
-* **Desafio de empresa Lambda3** https://bit.ly/3gkNPZT
+  * **Desafio de empresa Lambda3** https://bit.ly/3gkNPZT
 
-* **Classificador Spotify** https://bit.ly/2FHk6gY
+  * **Classificador Spotify** https://bit.ly/2FHk6gY
 
-* **Verificando Overfitting com Spotify** https://bit.ly/3aL881s
+  * **Verificando Overfitting com Spotify** https://bit.ly/3aL881s
 
 
 ---
