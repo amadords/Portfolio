@@ -21,39 +21,39 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
-* **KMeans** https://bit.ly/31llGha
+* **KMeans Iris** https://bit.ly/31llGha
 
-bank full https://bit.ly/3hk3YQE
+* **bank full** https://bit.ly/3hk3YQE
 
-bank numeric https://bit.ly/2EkACTI
+* **bank numeric** https://bit.ly/2EkACTI
 
-lambda3 https://bit.ly/3gkNPZT
+* **lambda3** https://bit.ly/3gkNPZT
 
-digitos knn https://bit.ly/32eL7QB
+* **digitos knn** https://bit.ly/32eL7QB
 
-comparação tree e random https://bit.ly/3l8GXlY
+* **comparação tree e random** https://bit.ly/3l8GXlY
 
-educacao https://bit.ly/2ElT4uZ
+* **educacao** https://bit.ly/2ElT4uZ
 
-iris decision tree https://bit.ly/34qkdYO
+* **iris decision tree** https://bit.ly/34qkdYO
 
-iris knn https://bit.ly/31hGHZZ
+* **iris knn** https://bit.ly/31hGHZZ
 
-iris svm https://bit.ly/31iaf9S
+* **iris svm** https://bit.ly/31iaf9S
 
-linear regression https://bit.ly/32b2qSA
+* **linear regression** https://bit.ly/32b2qSA
 
-projeto ml01 https://bit.ly/2Qf68Vw
+* **projeto ml01** https://bit.ly/2Qf68Vw
 
-pratica pre processamento https://bit.ly/3hoH6iP
+* **pratica pre processamento** https://bit.ly/3hoH6iP
 
-spotify svm https://bit.ly/2FHk6gY
+* **spotify svm** https://bit.ly/2FHk6gY
 
-spotify overfitting https://bit.ly/3aL881s
+* **spotify overfitting** https://bit.ly/3aL881s
 
-titanic (análise básica) https://bit.ly/3iXvnbs
+* **titanic (análise básica)** https://bit.ly/3iXvnbs
 
-twitter naive bayes https://bit.ly/3aNP6Hx
+* **twitter naive bayes** https://bit.ly/3aNP6Hx
 
 ---
 
