@@ -44,9 +44,9 @@ Veja os tutoriais publicados no GitHub:
 
 * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
 
-* **Classificando Digitos de escritos à mão)** https://bit.ly/32eL7QB
+    * **Classificando Digitos de escritos à mão** https://bit.ly/32eL7QB
 
-* **Projeto ML01** https://bit.ly/2Qf68Vw
+  * **Projeto ML01** https://bit.ly/2Qf68Vw
 
 * **Desafio de empresa Lambda3** https://bit.ly/3gkNPZT
 
