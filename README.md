@@ -21,15 +21,13 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
-* **pratica pre processamento** https://bit.ly/3hoH6iP
+* **Lidando com Pré-processamento de Dados** https://bit.ly/3hoH6iP
 
-* **titanic (análise básica)** https://bit.ly/3iXvnbs
+* **Lidando com Classes Desbalanceadas bank full** https://bit.ly/3hk3YQE
 
-* **bank full** https://bit.ly/3hk3YQE
+* **Titanic (análise básica)** https://bit.ly/3iXvnbs
 
-* **bank numeric** https://bit.ly/2EkACTI
-
-* **lambda3** https://bit.ly/3gkNPZT
+* **Desafio lambda3** https://bit.ly/3gkNPZT
 
 * **linear regression** https://bit.ly/32b2qSA
 
@@ -40,6 +38,8 @@ Veja os tutoriais publicados no GitHub:
 * **iris svm** https://bit.ly/31iaf9S
 
 * **twitter naive bayes** https://bit.ly/3aNP6Hx
+
+* **bank numeric conhecendo árvore de decisao** https://bit.ly/2EkACTI
 
 * **iris decision tree** https://bit.ly/34qkdYO
 
