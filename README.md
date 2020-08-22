@@ -42,7 +42,7 @@ Veja os tutoriais publicados no GitHub:
 
   * **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
 
-  * **Conhecendo o algoritmo Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
+  * **Conhecendo as Fronteiras do algoritmo Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
 
   * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
   
