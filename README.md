@@ -29,17 +29,17 @@ Veja os tutoriais publicados no GitHub:
 
 * **Desafio lambda3** https://bit.ly/3gkNPZT
 
-* **linear regression** https://bit.ly/32b2qSA
+* **Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
 
-* **KMeans Iris** https://bit.ly/31llGha
+* **KMeans (Base de Dados Iris)** https://bit.ly/31llGha
 
-* **Iris knn** https://bit.ly/31hGHZZ
+* **KNN (Base de Dados Iris)** https://bit.ly/31hGHZZ
 
-* **Iris svm** https://bit.ly/31iaf9S
+* **SVM (Base de Dados Iris)** https://bit.ly/31iaf9S
 
-* **Twitter conhecendo Naive Bayes** https://bit.ly/3aNP6Hx
+* **Naive Bayes (Base de Dados Twitter** https://bit.ly/3aNP6Hx
 
-* **bank numeric conhecendo árvore de decisao** https://bit.ly/2EkACTI
+* **Decision Tree ()** https://bit.ly/2EkACTI
 
 * **educacao random forest** https://bit.ly/2ElT4uZ
 
