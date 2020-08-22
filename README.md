@@ -20,13 +20,13 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
-* **Antes de Trabalhar com os Dados**
+## **Antes de Trabalhar com os Dados**
 
   * **Lidando com Pré-processamento de Dados** https://bit.ly/3hoH6iP
 
   * **Lidando com Classes Desbalanceadas** https://bit.ly/3hk3YQE
 
-* **Conhecendo Algoritmos**
+## **Conhecendo Algoritmos**
 
   * **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
 
@@ -46,9 +46,9 @@ Veja os tutoriais publicados no GitHub:
 
   * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
   
- * **Projetos**:
+ ## Projetos:
 
-  * **Titanic (análise básica)** https://bit.ly/3iXvnbs
+  * **Titanic (Análise Básica)** https://bit.ly/3iXvnbs
 
   * **Classificando Digitos de escritos à mão** https://bit.ly/32eL7QB
 
