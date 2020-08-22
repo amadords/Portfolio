@@ -17,43 +17,42 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 * [LinkedIn](https://www.linkedin.com/in/daniel-sousa-amador)
 * [GitHub](https://github.com/danielamador12)
 
-
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
 * **Lidando com Pré-processamento de Dados** https://bit.ly/3hoH6iP
 
-* **Lidando com Classes Desbalanceadas bank full** https://bit.ly/3hk3YQE
+* **Lidando com Classes Desbalanceadas** https://bit.ly/3hk3YQE
 
 * **Titanic (análise básica)** https://bit.ly/3iXvnbs
 
-* **Desafio lambda3** https://bit.ly/3gkNPZT
+* **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
 
-* **Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
+* **Conhecendo o algoritmo KMeans (Base de Dados Iris)** https://bit.ly/31llGha
 
-* **KMeans (Base de Dados Iris)** https://bit.ly/31llGha
+* **Conhecendo o algoritmo KNN (Base de Dados Iris)** https://bit.ly/31hGHZZ
 
-* **KNN (Base de Dados Iris)** https://bit.ly/31hGHZZ
+* **Conhecendo o algoritmo SVM (Base de Dados Iris)** https://bit.ly/31iaf9S
 
-* **SVM (Base de Dados Iris)** https://bit.ly/31iaf9S
+* **Conhecendo o algoritmo Naive Bayes (Base de Dados Twitter)** https://bit.ly/3aNP6Hx
 
-* **Naive Bayes (Base de Dados Twitter** https://bit.ly/3aNP6Hx
+* **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco)** https://bit.ly/2EkACTI
 
-* **Decision Tree (Prevendo empréstimo em Banco)** https://bit.ly/2EkACTI
+* **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
 
-* **Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
-
-* **Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
+* **Conhecendo o algoritmo Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
 
 * **comparação tree e random (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
 
 * **KNN (Base de Dados de Digitos escritos à mão)** https://bit.ly/32eL7QB
 
-* **projeto ml01** https://bit.ly/2Qf68Vw
+* **Projeto ML01** https://bit.ly/2Qf68Vw
 
-* **spotify svm** https://bit.ly/2FHk6gY
+* **Desafio de empresa Lambda3** https://bit.ly/3gkNPZT
 
-* **spotify overfitting** https://bit.ly/3aL881s
+* **Classificador Spotify** https://bit.ly/2FHk6gY
+
+* **Verificando Overfitting com Spotify** https://bit.ly/3aL881s
 
 
 ---
