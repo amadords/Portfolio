@@ -21,7 +21,9 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
-* **KMeans Iris** https://bit.ly/31llGha
+* **pratica pre processamento** https://bit.ly/3hoH6iP
+
+* **titanic (análise básica)** https://bit.ly/3iXvnbs
 
 * **bank full** https://bit.ly/3hk3YQE
 
@@ -29,31 +31,30 @@ Veja os tutoriais publicados no GitHub:
 
 * **lambda3** https://bit.ly/3gkNPZT
 
-* **digitos knn** https://bit.ly/32eL7QB
+* **linear regression** https://bit.ly/32b2qSA
 
-* **comparação tree e random** https://bit.ly/3l8GXlY
-
-* **educacao** https://bit.ly/2ElT4uZ
-
-* **iris decision tree** https://bit.ly/34qkdYO
+* **KMeans Iris** https://bit.ly/31llGha
 
 * **iris knn** https://bit.ly/31hGHZZ
 
 * **iris svm** https://bit.ly/31iaf9S
 
-* **linear regression** https://bit.ly/32b2qSA
+* **twitter naive bayes** https://bit.ly/3aNP6Hx
+
+* **iris decision tree** https://bit.ly/34qkdYO
+
+* **educacao random forest** https://bit.ly/2ElT4uZ
+
+* **comparação tree e random** https://bit.ly/3l8GXlY
+
+* **digitos knn** https://bit.ly/32eL7QB
 
 * **projeto ml01** https://bit.ly/2Qf68Vw
-
-* **pratica pre processamento** https://bit.ly/3hoH6iP
 
 * **spotify svm** https://bit.ly/2FHk6gY
 
 * **spotify overfitting** https://bit.ly/3aL881s
 
-* **titanic (análise básica)** https://bit.ly/3iXvnbs
-
-* **twitter naive bayes** https://bit.ly/3aNP6Hx
 
 ---
 
