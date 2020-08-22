@@ -21,13 +21,39 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **KMeans** https://bit.ly/31llGha
+
+bank full https://bit.ly/3hk3YQE
+
+bank numeric https://bit.ly/2EkACTI
+
+lambda3 https://bit.ly/3gkNPZT
+
+digitos knn https://bit.ly/32eL7QB
+
+comparação tree e random https://bit.ly/3l8GXlY
+
+educacao https://bit.ly/2ElT4uZ
+
+iris decision tree https://bit.ly/34qkdYO
+
+iris knn https://bit.ly/31hGHZZ
+
+iris svm https://bit.ly/31iaf9S
+
+linear regression https://bit.ly/32b2qSA
+
+projeto ml01 https://bit.ly/2Qf68Vw
+
+pratica pre processamento https://bit.ly/3hoH6iP
+
+spotify svm https://bit.ly/2FHk6gY
+
+spotify overfitting https://bit.ly/3aL881s
+
+titanic (análise básica) https://bit.ly/3iXvnbs
+
+twitter naive bayes https://bit.ly/3aNP6Hx
 
 ---
 
