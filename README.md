@@ -39,15 +39,15 @@ Veja os tutoriais publicados no GitHub:
 
 * **Naive Bayes (Base de Dados Twitter** https://bit.ly/3aNP6Hx
 
-* **Decision Tree ()** https://bit.ly/2EkACTI
+* **Decision Tree (Prevendo empréstimo em Banco)** https://bit.ly/2EkACTI
 
-* **educacao random forest** https://bit.ly/2ElT4uZ
+* **Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
 
-* **iris decision tree** https://bit.ly/34qkdYO
+* **Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
 
-* **comparação tree e random** https://bit.ly/3l8GXlY
+* **comparação tree e random (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
 
-* **digitos knn** https://bit.ly/32eL7QB
+* **KNN (Base de Dados de Digitos escritos à mão)** https://bit.ly/32eL7QB
 
 * **projeto ml01** https://bit.ly/2Qf68Vw
 
