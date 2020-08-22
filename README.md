@@ -33,17 +33,17 @@ Veja os tutoriais publicados no GitHub:
 
 * **KMeans Iris** https://bit.ly/31llGha
 
-* **iris knn** https://bit.ly/31hGHZZ
+* **Iris knn** https://bit.ly/31hGHZZ
 
-* **iris svm** https://bit.ly/31iaf9S
+* **Iris svm** https://bit.ly/31iaf9S
 
-* **twitter naive bayes** https://bit.ly/3aNP6Hx
+* **Twitter conhecendo Naive Bayes** https://bit.ly/3aNP6Hx
 
 * **bank numeric conhecendo árvore de decisao** https://bit.ly/2EkACTI
 
-* **iris decision tree** https://bit.ly/34qkdYO
-
 * **educacao random forest** https://bit.ly/2ElT4uZ
+
+* **iris decision tree** https://bit.ly/34qkdYO
 
 * **comparação tree e random** https://bit.ly/3l8GXlY
 
