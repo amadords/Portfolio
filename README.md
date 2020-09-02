@@ -17,7 +17,7 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 * [LinkedIn](https://www.linkedin.com/in/daniel-sousa-amador)
 * [GitHub](https://github.com/danielamador12)
 * [Medium](https://medium.com/@daniel.s.amador)
-
+---
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
@@ -64,11 +64,6 @@ Veja os tutoriais publicados no GitHub:
   ## Artigos:
   
   * **Data Science? Portfólio? O que não te disseram?** https://bit.ly/3bpcag7
-
-
-
----
-
 
 
 
