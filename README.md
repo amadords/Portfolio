@@ -6,6 +6,7 @@
 
 # Daniel Amador
 <sub>*Analista e Cientista de Dados - Self-employed*</sub>
+---
 
 Embora não tenha atuado no ramo do direito de forma profissional, durante o período da academia pude viver na prática o ramo e desenvolver habilidades analíticas, de escrita e de oratória (essas duas consideradas soft skills importantes dentro do contexto de quem trabalha com dados), na 2ª Vara Cível da Comarca de Mossoró/RN, no Escritório de Advocacia FPSV junto à presidente local da OAB/RN e na própria universidade, elevando as habilidades já adquiridas em 5 anos como Professor Voluntário em *Informática*, *Matemática* e *Português* na rede pública municipal e estadual em Mossoró-RN. Além disso, entre 2018 e 2019 trabalhei em parceria durante 11 meses com o **Jobs Coworking** onde pude exercitar o Networking de forma assídua e começar a trabalhar com dados, o que faço até hoje de forma independente, para empresas da cidade, desde *análise dos dados* até *previsão de vendas* com séries temporais.
 
@@ -17,7 +18,7 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 * [LinkedIn](https://www.linkedin.com/in/daniel-sousa-amador)
 * [GitHub](https://github.com/danielamador12)
 * [Medium](https://medium.com/@daniel.s.amador)
----
+
 ## Projetos e Tutoriais:
 Veja os tutoriais publicados no GitHub:
 
