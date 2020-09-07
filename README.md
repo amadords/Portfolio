@@ -61,6 +61,8 @@ Veja os tutoriais publicados no GitHub:
 
   * **Verificando Overfitting com Spotify** https://bit.ly/3aL881s
   
+  * **Extraindo tabela de Arquivo .pdf** https://bit.ly/35d7itB
+  
   ## Artigos:
   
   * **Data Science? Portfólio? O que não te disseram?** https://bit.ly/3bpcag7
