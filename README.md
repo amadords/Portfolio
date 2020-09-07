@@ -64,6 +64,7 @@ Veja os tutoriais publicados no GitHub:
   * **Extraindo tabela de Arquivo .pdf** https://bit.ly/35d7itB
   
   ## Artigos:
+  Publicados no Medium:
   
   * **Data Science? Portfólio? O que não te disseram?** https://bit.ly/3bpcag7
 
