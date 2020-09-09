@@ -67,6 +67,5 @@ Veja os tutoriais publicados no GitHub:
   Publicados no Medium:
   
   * **Data Science? Portfólio? O que não te disseram?** https://bit.ly/3bpcag7
-
-
+  * **Mais uma indicação de livros... Será?** https://bit.ly/2FeS8cu
 
