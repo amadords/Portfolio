@@ -55,7 +55,7 @@ Veja os tutoriais publicados no GitHub:
 
   * **Projeto ML01** https://bit.ly/2Qf68Vw
 
-  * **Desafio de empresa Lambda3** https://bit.ly/3gkNPZT
+  * **Desafio de empresa Lambda3** https://bit.ly/32k4WqM
 
   * **Classificador Spotify** https://bit.ly/2FHk6gY
 
