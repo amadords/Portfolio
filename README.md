@@ -18,57 +18,57 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 * [GitHub](https://github.com/danielamador12)
 * [Medium](https://medium.com/@daniel.s.amador)
 
-## Projetos e Tutoriais:
+## Projetos e Tutoriais
 Veja os tutoriais publicados no GitHub:
 
-### Antes de Trabalhar com os Dados:
+### Antes de Trabalhar com os Dados
 
-  * **Lidando com Pré-processamento de Dados** https://bit.ly/3hoH6iP
+  * **Lidando com Pré-processamento de Dados:** https://bit.ly/3hoH6iP
 
-  * **Lidando com Classes Desbalanceadas** https://bit.ly/3hk3YQE
+  * **Lidando com Classes Desbalanceadas:** https://bit.ly/3hk3YQE
 
-### Conhecendo Algoritmos:
+### Conhecendo Algoritmos
 
-  * **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro)** https://bit.ly/32b2qSA
+  * **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro):** https://bit.ly/32b2qSA
 
-  * **Conhecendo o algoritmo KMeans (Base de Dados Iris)** https://bit.ly/31llGha
+  * **Conhecendo o algoritmo KMeans (Base de Dados Iris):** https://bit.ly/31llGha
 
-  * **Conhecendo o algoritmo KNN (Base de Dados Iris)** https://bit.ly/31hGHZZ
+  * **Conhecendo o algoritmo KNN (Base de Dados Iris):** https://bit.ly/31hGHZZ
 
-  * **Conhecendo o algoritmo SVM (Base de Dados Iris)** https://bit.ly/31iaf9S
+  * **Conhecendo o algoritmo SVM (Base de Dados Iris):** https://bit.ly/31iaf9S
 
-  * **Conhecendo o algoritmo Naive Bayes (Base de Dados Twitter)** https://bit.ly/3aNP6Hx
+  * **Conhecendo o algoritmo Naive Bayes (Base de Dados Twitter):** https://bit.ly/3aNP6Hx
 
-  * **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco)** https://bit.ly/2EkACTI
+  * **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco):** https://bit.ly/2EkACTI
 
-  * **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula)** https://bit.ly/2ElT4uZ
+  * **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula):** https://bit.ly/2ElT4uZ
 
-  * **Conhecendo as Fronteiras do algoritmo Decision Tree (Base de Dados Iris)** https://bit.ly/34qkdYO
+  * **Conhecendo as Fronteiras do algoritmo Decision Tree (Base de Dados Iris):** https://bit.ly/34qkdYO
 
-  * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula)** https://bit.ly/3l8GXlY
+  * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula):** https://bit.ly/3l8GXlY
   
- ### Projetos:
+ ### Projetos
 
-  * **Titanic (Análise Básica)** https://bit.ly/3iXvnbs
+  * **Titanic (Análise Básica):** https://bit.ly/3iXvnbs
 
-  * **Classificando Digitos de escritos à mão** https://bit.ly/32eL7QB
+  * **Classificando Digitos de escritos à mão:** https://bit.ly/32eL7QB
 
-  * **Projeto ML01** https://bit.ly/2Qf68Vw
+  * **Projeto ML01:** https://bit.ly/2Qf68Vw
 
-  * **Desafio de empresa Lambda3** https://bit.ly/32k4WqM
+  * **Desafio de empresa Lambda3:** https://bit.ly/32k4WqM
 
-  * **Classificador Spotify** https://bit.ly/2FHk6gY
+  * **Classificador Spotify:** https://bit.ly/2FHk6gY
 
-  * **Verificando Overfitting com Spotify** https://bit.ly/3aL881s
+  * **Verificando Overfitting com Spotify:** https://bit.ly/3aL881s
   
-  * **Extraindo tabela de Arquivo .pdf** https://bit.ly/35d7itB
+  * **Extraindo tabela de Arquivo .pdf:** https://bit.ly/35d7itB
   
-  ## Artigos:
+  ## Artigos
   Publicados no Medium:
   
-  * **Data Science? Portfólio? O que não te disseram?** https://bit.ly/3bpcag7
+  * **Data Science? Portfólio? O que não te disseram?:** https://bit.ly/3bpcag7
   
-  * **Mais uma indicação de livros... Será?** https://bit.ly/2FeS8cu
+  * **Mais uma indicação de livros... Será?:** https://bit.ly/2FeS8cu
   
-  * **Extraindo tabela de PDF** https://bit.ly/2ZjV1zx
+  * **Extraindo tabela de PDF:** https://bit.ly/2ZjV1zx
 
