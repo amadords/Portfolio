@@ -71,5 +71,6 @@ Veja os tutoriais publicados no GitHub:
   * **Mais uma indicação de livros... Será?:** https://bit.ly/2FeS8cu
   
   * **Extraindo tabela de PDF:** https://bit.ly/2ZjV1zx
+  
   * **Seu notebook e seu recrutador:** https://bit.ly/3ceAX7c
 
