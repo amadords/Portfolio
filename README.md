@@ -75,4 +75,6 @@ Veja os tutoriais publicados no GitHub:
   * **Extraindo tabela de PDF:** https://bit.ly/2ZjV1zx
   
   * **Seu notebook e seu recrutador:** https://bit.ly/3ceAX7c
+  
+  * **Storytelling e Storydoing com Dados:** https://bit.ly/3mRXaN5
 
