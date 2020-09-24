@@ -63,6 +63,8 @@ Veja os tutoriais publicados no GitHub:
   
   * **Extraindo tabela de Arquivo .pdf:** https://bit.ly/35d7itB
   
+  * **Storytelling com Dados:** https://bit.ly/32Z333e
+  
   ## Artigos
   Publicados no Medium:
   
