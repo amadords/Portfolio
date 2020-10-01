@@ -22,21 +22,23 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
 
 ## Projetos
 
-  * **Titanic (Análise Básica):** https://bit.ly/3iXvnbs
-
-  * **Classificando Digitos de escritos à mão:** https://bit.ly/32eL7QB
+  * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
 
   * **Projeto ML01:** https://bit.ly/2Qf68Vw
 
-  * **Desafio de empresa Lambda3:** https://bit.ly/32k4WqM
+  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
 
-  * **Classificador Spotify:** https://bit.ly/2FHk6gY
-
-  * **Verificando Overfitting com Spotify:** https://bit.ly/3aL881s
+  * **Classificador de Música Spotify:** https://bit.ly/3l44ELf
   
-  * **Extraindo tabela de Arquivo .pdf:** https://bit.ly/35d7itB
+  * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
   
   * **Storytelling com Dados:** https://bit.ly/32Z333e
+  
+  * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
+    
+  * **Chances de Sobrevivência no Titanic:** https://bit.ly/2GoQeX5
+
+
   
   ## Artigos
   Publicados no Medium:
