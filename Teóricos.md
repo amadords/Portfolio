@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/danielamador12)
 * [Medium](https://medium.com/@daniel.s.amador)
 
-## Projetos e Tutoriais
+## Notebooks com Teoria
 Veja os tutoriais publicados no GitHub:
 
 ### Antes de Trabalhar com os Dados
