@@ -11,7 +11,8 @@
 * [Medium](https://medium.com/@daniel.s.amador)
 
 ## Notebooks com Teoria
-Veja os tutoriais publicados no GitHub:
+
+Aqui estão notebooks com um pouco de teoria.
 
 ### Antes de Trabalhar com os Dados
 
