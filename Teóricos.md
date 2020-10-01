@@ -18,25 +18,26 @@ Aqui estão notebooks com um pouco de teoria.
 
   * **Lidando com Pré-processamento de Dados:** https://bit.ly/3hoH6iP
 
-  * **Lidando com Classes Desbalanceadas:** https://bit.ly/3hk3YQE
+  * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
 
 ### Conhecendo Algoritmos
 
-  * **Conhecendo o algoritmo Linear Regression (Prevendo valor de Carro):** https://bit.ly/32b2qSA
+  * **K-Means (Algoritmo):** https://bit.ly/3cNfDG4
 
-  * **Conhecendo o algoritmo KMeans (Base de Dados Iris):** https://bit.ly/31llGha
-
-  * **Conhecendo o algoritmo KNN (Base de Dados Iris):** https://bit.ly/31hGHZZ
+  * **KNN (Algoritmo):** https://bit.ly/34vtr4v
 
   * **Conhecendo o algoritmo SVM (Base de Dados Iris):** https://bit.ly/31iaf9S
 
-  * **Conhecendo o algoritmo Naive Bayes (Base de Dados Twitter):** https://bit.ly/3aNP6Hx
+  * **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
 
   * **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco):** https://bit.ly/2EkACTI
 
-  * **Conhecendo o algoritmo Random Forest (Performance de aluno em sala de aula):** https://bit.ly/2ElT4uZ
+  * **Floresta Aleatória (Algoritmo):** https://bit.ly/2Sg9LM7
 
   * **Conhecendo as Fronteiras do algoritmo Decision Tree (Base de Dados Iris):** https://bit.ly/34qkdYO
 
-  * **Comparação entre Decision Tree e Random Forest (Performance de aluno em sala de aula):** https://bit.ly/3l8GXlY
+  * **Comparativo - Árvore de Decisão e Floresta Aleatória:** https://bit.ly/30mKZ1q
+  
+  * **Verificando Overfitting com Spotify:** https://bit.ly/3aL881s
+
  
