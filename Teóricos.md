@@ -4,11 +4,9 @@
   <img src="https://github.com/danielamador12/Portfolio/blob/master/github.png" >
 </p>
 
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/daniel-sousa-amador)
-* [GitHub](https://github.com/danielamador12)
-* [Medium](https://medium.com/@daniel.s.amador)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielSousaAmador-purple.svg)](https://www.linkedin.com/in/daniel-sousa-amador)
+[![GitHub](https://img.shields.io/badge/GitHub-danielamador12-darkblue.svg)](https://github.com/danielamador12)
+[![Medium](https://img.shields.io/badge/Medium-DanielSousaAmador-darkorange.svg)](https://medium.com/@daniel.s.amador)
 
 ## Notebooks com Teoria
 
