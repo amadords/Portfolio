@@ -27,12 +27,10 @@ Aqui estão notebooks com um pouco de teoria.
   * **SVM (Algoritmo):** https://bit.ly/3iiWnS4
 
   * **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
-
-  * **Conhecendo o algoritmo Decision Tree (Prevendo empréstimo em Banco):** https://bit.ly/2EkACTI
+  
+  * **Árvore de Decisão (Algoritmo):** https://bit.ly/2Guqmcd
 
   * **Floresta Aleatória (Algoritmo):** https://bit.ly/2Sg9LM7
-
-  * **Árvore de Decisão (Algoritmo):** https://bit.ly/2Guqmcd
 
   * **Comparativo - Árvore de Decisão e Floresta Aleatória:** https://bit.ly/30mKZ1q
   
