@@ -22,9 +22,9 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
 
 ## Projetos
 
-  * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
-
-  * **Projeto ML01:** https://bit.ly/2Qf68Vw
+  * **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
+  
+  * **Projeto ML01 (Minerando Dados):** https://bit.ly/3jmLb82
 
   * **Desafio - Lambda3:** https://bit.ly/34aK0SY
 
@@ -32,16 +32,18 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
   
   * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
   
-  * **Storytelling com Dados:** https://bit.ly/32Z333e
+  * **Storytelling com Dados:** https://bit.ly/2GoeUiD
   
   * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
     
   * **Chances de Sobrevivência no Titanic:** https://bit.ly/2GoQeX5
+  
+  * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
+
 
 
   
   ## Artigos
-  Publicados no Medium:
   
   * **Data Science? Portfólio? O que não te disseram?:** https://bit.ly/3bpcag7
   
