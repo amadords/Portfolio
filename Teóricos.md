@@ -16,7 +16,7 @@ Aqui estão notebooks com um pouco de teoria.
 
 ### Antes de Trabalhar com os Dados
 
-  * **Lidando com Pré-processamento de Dados:** https://bit.ly/3hoH6iP
+  * **Pré-processamentos, Métricas e Pipelines(Prática):** https://bit.ly/2Siq0YU
 
   * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
 
@@ -26,7 +26,7 @@ Aqui estão notebooks com um pouco de teoria.
 
   * **KNN (Algoritmo):** https://bit.ly/34vtr4v
 
-  * **Conhecendo o algoritmo SVM (Base de Dados Iris):** https://bit.ly/31iaf9S
+  * **SVM (Algoritmo):** https://bit.ly/3iiWnS4
 
   * **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
 
@@ -34,10 +34,10 @@ Aqui estão notebooks com um pouco de teoria.
 
   * **Floresta Aleatória (Algoritmo):** https://bit.ly/2Sg9LM7
 
-  * **Conhecendo as Fronteiras do algoritmo Decision Tree (Base de Dados Iris):** https://bit.ly/34qkdYO
+  * **Árvore de Decisão (Algoritmo):** https://bit.ly/2Guqmcd
 
   * **Comparativo - Árvore de Decisão e Floresta Aleatória:** https://bit.ly/30mKZ1q
   
-  * **Verificando Overfitting com Spotify:** https://bit.ly/3aL881s
+  * **Teste de Overfitting no classificador Spotify:** https://bit.ly/2SdZ6l9
 
  
