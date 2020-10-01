@@ -14,7 +14,7 @@ Aqui estão notebooks com um pouco de teoria.
 
 ### Antes de Trabalhar com os Dados
 
-  * **Pré-processamentos, Métricas e Pipelines(Prática):** https://bit.ly/2Siq0YU
+  * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
   * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
 
