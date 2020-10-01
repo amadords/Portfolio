@@ -29,6 +29,8 @@ Aqui estão notebooks com um pouco de teoria.
   * **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
   
   * **Árvore de Decisão (Algoritmo):** https://bit.ly/2Guqmcd
+  
+  * **Visualização de Fronteiras da Árvore de Decisão:** https://bit.ly/2Grb34k
 
   * **Floresta Aleatória (Algoritmo):** https://bit.ly/2Sg9LM7
 
