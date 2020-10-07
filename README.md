@@ -13,7 +13,7 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 
 **Background in:** Python, Machine Learning e Estatistica Descritiva.
 
-**Contatos:**
+##Contatos:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-sousa-amador)
 
@@ -24,7 +24,7 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 <br />
 
 
-### Linguagens e Ferramentas
+### Linguagens e Ferramentas:
 
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 
@@ -35,7 +35,6 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/postgresql.svg" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
