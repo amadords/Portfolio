@@ -13,7 +13,7 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 
 **Background in:** Python, Machine Learning e Estatistica Descritiva.
 
-##Contatos:
+### Contatos:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-sousa-amador)
 
