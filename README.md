@@ -65,8 +65,6 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
   
   * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
-
 
   
   ## Artigos
@@ -82,4 +80,5 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
   * **Storytelling e Storydoing com Dados:** https://bit.ly/3mRXaN5
   
   * **Plante uma Árvore ou uma Floresta:** https://bit.ly/3ipydVK
+  
 
