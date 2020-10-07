@@ -80,5 +80,7 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
   * **Storytelling e Storydoing com Dados:** https://bit.ly/3mRXaN5
   
   * **Plante uma Árvore ou uma Floresta:** https://bit.ly/3ipydVK
+  ---
+  ! [Github stats] (https://github-readme-stats.vercel.app/api?username=danielamador12)
   
 
