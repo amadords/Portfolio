@@ -81,6 +81,5 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
   
   * **Plante uma Árvore ou uma Floresta:** https://bit.ly/3ipydVK
   ---
-  ! [Github stats] (https://github-readme-stats.vercel.app/api?username=danielamador12)
-  
 
+! [ReadMe Card] (https://github-readme-stats.vercel.app/api/pin/?username=danielamador12&Portfolio=danielamador12)
