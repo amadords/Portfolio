@@ -65,6 +65,7 @@ Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento,
   
   * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
 
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jmcabreira&show_icons=true&hide_border=true" />
 
 
   
