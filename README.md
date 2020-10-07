@@ -13,10 +13,14 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 
 **Background in:** Python, Machine Learning e Estatistica Descritiva.
 
-**Links importantes:**
-* [LinkedIn](https://www.linkedin.com/in/daniel-sousa-amador)
-* [GitHub](https://github.com/danielamador12)
-* [Medium](https://medium.com/@daniel.s.amador)
+**Contatos:**
+
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-sousa-amador)
+
+[<img align="left" alt="daniel.s.amador | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+
+[<img align="left" alt="danielamador12 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 Para Notebooks com teoria sobre algoritmos mais utilizados e pré-processamento, clique [aqui](https://github.com/danielamador12/Portfolio/blob/master/Te%C3%B3ricos.md).
 
