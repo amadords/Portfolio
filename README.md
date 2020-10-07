@@ -21,6 +21,9 @@ Minhas credenciais incluem um bacharelado em Direito pela Universidade Potiguar 
 
 [<img align="left" alt="daniel12amador | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel12amador/)
 
+<br />
+
+
 ### Linguagens e Ferramentas
 
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
