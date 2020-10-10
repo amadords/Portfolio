@@ -12,13 +12,9 @@
 
 Aqui estão notebooks com um pouco de teoria.
 
-### Antes de Trabalhar com os Dados
-
   * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
   * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
-
-### Conhecendo Algoritmos
 
   * **K-Means (Algoritmo):** https://bit.ly/3cNfDG4
 
@@ -37,5 +33,11 @@ Aqui estão notebooks com um pouco de teoria.
   * **Comparativo - Árvore de Decisão e Floresta Aleatória:** https://bit.ly/30mKZ1q
   
   * **Teste de Overfitting no classificador Spotify:** https://bit.ly/2SdZ6l9
+  
+  * **Chances de Sobrevivência no Titanic:** https://bit.ly/2GoQeX5
+  
+  * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
+
+
 
  
