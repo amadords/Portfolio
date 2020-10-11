@@ -13,8 +13,6 @@ Para projetos clique [aqui](bit.ly/3iT5eKm).
 
 ## Notebooks com Teoria
 
-Aqui estão notebooks com um pouco de teoria.
-
   * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
   * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
