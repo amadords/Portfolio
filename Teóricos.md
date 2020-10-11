@@ -6,7 +6,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielSousaAmador-purple.svg)](https://www.linkedin.com/in/daniel-sousa-amador)
-[![GitHub](https://img.shields.io/badge/GitHub-ds-amador-darkblue.svg)](https://github.com/ds-amador)
+[![GitHub](https://img.shields.io/badge/GitHub-ds-amador-darkblue.svg)](https://github.com/amadords)
 [![Medium](https://img.shields.io/badge/Medium-DanielSousaAmador-darkorange.svg)](https://medium.com/@daniel.s.amador)
 
 ## Notebooks com Teoria
