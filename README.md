@@ -1,6 +1,6 @@
 **Estou usando exclusivamente a página abaixo no GitHub para divulgação!**
 
-https://bit.ly/3lDugyL
+https://bit.ly/3iT5eKm
 
 Grato pela compreensão!
 
