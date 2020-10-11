@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-amadords-darkblue.svg)](https://github.com/amadords)
 [![Medium](https://img.shields.io/badge/Medium-DanielSousaAmador-darkorange.svg)](https://medium.com/@daniel.s.amador)
 
-Para projetos clique [aqui](bit.ly/3iT5eKm).
+Para projetos clique [aqui](https://github.com/amadords).
 
 ## Notebooks com Teoria
 
