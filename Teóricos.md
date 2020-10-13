@@ -41,7 +41,7 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Introdução ao Plotly:** https://bit.ly/34MZRHu
   
-  * **Plotly para Séries Temporais (Dados_da_Apple):** https://bit.ly/3dlSuLg
+  * **Plotly para Séries Temporais (Dados da Apple):** https://bit.ly/3dlSuLg
   
 
  
