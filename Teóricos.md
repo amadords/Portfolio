@@ -38,7 +38,10 @@ Para projetos clique [aqui](https://github.com/amadords).
   * **Chances de Sobrevivência no Titanic:** https://bit.ly/2GoQeX5
   
   * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
-
-
+  
+  * **Introdução ao Plotly** https://bit.ly/34MZRHu
+  
+  * **Plotly para Séries Temporais (Dados_da_Apple):** https://bit.ly/3dlSuLg
+  
 
  
