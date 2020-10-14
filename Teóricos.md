@@ -17,7 +17,9 @@ Para projetos clique [aqui](https://github.com/amadords).
 <br />
 <br />
 
-*clique no botão* **Open in Colab** *(ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.*
+*Observação: Ao abrir cada notebook, clique no botão* **Open in Colab** *(ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.*
+
+<br />
 
   * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
