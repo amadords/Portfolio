@@ -19,8 +19,6 @@ Para projetos clique [aqui](https://github.com/amadords).
 
 clique no botão **Open in Colab** (ilustração acima) para obter a melhor experiência, especialmente no que concerne aos gráficos de bibliotecas como Folium e Plotly.
 
-<br />
-
   * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
   * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
