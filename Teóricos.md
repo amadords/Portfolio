@@ -43,5 +43,7 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Plotly para Séries Temporais (Dados da Apple):** https://bit.ly/3dlSuLg
   
+  * **Plotando dados em Mapas com Folium:** https://bit.ly/30ZExh5
+  
 
  
