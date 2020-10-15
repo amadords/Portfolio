@@ -4,6 +4,7 @@ https://bit.ly/3iT5eKm
 
 Grato pela compreensão!
 
+
 Me contate em:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-sousa-amador)
@@ -13,5 +14,12 @@ Me contate em:
 [<img align="left" alt="ds_amador | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ds_amador/)
 
 <br />
+<br />
+<br />
+
+
+<p align="center">
+  <img src="https://github.com/amadords/Portfolio/blob/master/github.png" >
+</p>
 
 
