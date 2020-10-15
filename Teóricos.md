@@ -53,5 +53,10 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Plotando dados em Mapas com Folium:** https://bit.ly/30ZExh5
   
+  * **Abrindo Gsheet no Colab:** https://bit.ly/3k0Zqjo
+  
+  * **Estatística 1 (Amostragem):** https://bit.ly/3dtw22J
+  
+  * **Estatística 2 (Estatística Descritiva):** https://bit.ly/340uOsG
 
  
