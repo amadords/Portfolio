@@ -55,8 +55,16 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Abrindo Gsheet no Colab:** https://bit.ly/3k0Zqjo
   
+  * **Estatística 0 (Estatística Descritiva):** https://bit.ly/2G2aCh2
+  
   * **Estatística 1 (Amostragem):** https://bit.ly/3dtw22J
   
   * **Estatística 2 (Estatística Descritiva):** https://bit.ly/340uOsG
+  
+  * **Estatística 3 (Distribuições):** https://bit.ly/3krCUQJ
+  
+  * **Estatística 4 (Regressões):** https://bit.ly/3kwpVgQ
+  
+  
 
  
