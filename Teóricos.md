@@ -11,7 +11,7 @@
 
 Para projetos clique [aqui](https://github.com/amadords).
 
-## Notebooks com Teoria
+## Notebooks com Teoria e Tutoriais
 <img align="left" alt="colab" width="110px" src="https://raw.githubusercontent.com/amadords/others/master/open%20in%20colab.png" />
 
 <br />
