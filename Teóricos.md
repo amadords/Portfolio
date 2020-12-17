@@ -23,13 +23,13 @@ Para projetos clique [aqui](https://github.com/amadords).
 
   * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
-  * **Classes Desbalanceadas:** bit.ly/3nj6EkW
+  * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
 
-  * **K-Means (Algoritmo):** bit.ly/3cNfDG4
+  * **K-Means (Algoritmo):** https://bit.ly/3cNfDG4
 
-  * **KNN (Algoritmo):** bit.ly/34vtr4v
+  * **KNN (Algoritmo):** https://bit.ly/34vtr4v
 
-  * **SVM (Algoritmo):** bit.ly/3iiWnS4
+  * **SVM (Algoritmo):** https://bit.ly/3iiWnS4
 
   * **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
   
