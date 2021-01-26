@@ -65,6 +65,7 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Estatística 4 (Regressões):** https://bit.ly/3kwpVgQ
   
+  * **Classificação MultiLabel:** http://bit.ly/2YtM5qR
   
 
  
