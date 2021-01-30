@@ -67,5 +67,7 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Classificação MultiLabel:** http://bit.ly/2YtM5qR
   
+  * **Regex (Expressões Regulares):** http://bit.ly/3pxDoHT
+  
 
  
