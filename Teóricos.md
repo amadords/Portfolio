@@ -55,6 +55,8 @@ Para projetos clique [aqui](https://github.com/amadords).
   
   * **Abrindo Gsheet no Colab:** https://bit.ly/3k0Zqjo
   
+  * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
+  
   * **Estatística 0 (Estatística Descritiva):** https://bit.ly/2G2aCh2
   
   * **Estatística 1 (Amostragem):** https://bit.ly/3dtw22J
