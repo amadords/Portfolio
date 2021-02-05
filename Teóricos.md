@@ -56,6 +56,12 @@ Para projetos clique [aqui](https://github.com/amadords).
   * **Abrindo Gsheet no Colab:** https://bit.ly/3k0Zqjo
   
   * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
+ 
+  * **Projeto ML01 (Minerando Dados):** https://bit.ly/3jmLb82
+  
+  * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
+  
+  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
   
   * **Estatística 0 (Estatística Descritiva):** https://bit.ly/2G2aCh2
   
