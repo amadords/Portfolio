@@ -76,6 +76,12 @@ Para projetos clique [aqui](https://github.com/amadords).
   * **Classificação MultiLabel:** http://bit.ly/2YtM5qR
   
   * **Regex (Expressões Regulares):** http://bit.ly/3pxDoHT
+
+  * **Apriori com Python:** http://bit.ly/2NCXpip
+  
+  * **Apriori com R:** http://bit.ly/3bCLQQd
+
+  * **ECLAT com R:** http://bit.ly/37P0xi9
   
 
  
