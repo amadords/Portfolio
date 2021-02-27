@@ -21,67 +21,69 @@ Para projetos clique [aqui](https://github.com/amadords).
 
 <br />
 
-  * **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
+* **Pré-processamentos, Métricas e Pipelines (Prática):** https://bit.ly/2Siq0YU
 
-  * **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
+* **Classes Desbalanceadas:** https://bit.ly/3nj6EkW
 
-  * **K-Means (Algoritmo):** https://bit.ly/3cNfDG4
+* **K-Means (Algoritmo):** https://bit.ly/3cNfDG4
 
-  * **KNN (Algoritmo):** https://bit.ly/34vtr4v
+* **KNN (Algoritmo):** https://bit.ly/34vtr4v
 
-  * **SVM (Algoritmo):** https://bit.ly/3iiWnS4
+* **SVM (Algoritmo):** https://bit.ly/3iiWnS4
 
-  * **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
+* **Naive Bayes (Algoritmo):** https://bit.ly/36mzNW6
   
-  * **Árvore de Decisão (Algoritmo):** https://bit.ly/2Guqmcd
+* **Árvore de Decisão (Algoritmo):** https://bit.ly/2Guqmcd
   
-  * **Visualização de Fronteiras da Árvore de Decisão:** https://bit.ly/2Grb34k
+* **Visualização de Fronteiras da Árvore de Decisão:** https://bit.ly/2Grb34k
 
-  * **Floresta Aleatória (Algoritmo):** https://bit.ly/2Sg9LM7
+* **Floresta Aleatória (Algoritmo):** https://bit.ly/2Sg9LM7
 
-  * **Comparativo - Árvore de Decisão e Floresta Aleatória:** https://bit.ly/30mKZ1q
+* **Comparativo - Árvore de Decisão e Floresta Aleatória:** https://bit.ly/30mKZ1q
   
-  * **Teste de Overfitting no classificador Spotify:** https://bit.ly/2SdZ6l9
+* **Teste de Overfitting no classificador Spotify:** https://bit.ly/2SdZ6l9
   
-  * **Chances de Sobrevivência no Titanic:** https://bit.ly/2GoQeX5
+* **Chances de Sobrevivência no Titanic:** https://bit.ly/2GoQeX5
   
-  * **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
+* **Classificando Dígitos com KNN:** https://bit.ly/3jmkEba
   
-  * **Introdução ao Plotly:** https://bit.ly/34MZRHu
+* **Introdução ao Plotly:** https://bit.ly/34MZRHu
   
-  * **Plotly para Séries Temporais (Dados da Apple):** https://bit.ly/3dlSuLg
+* **Plotly para Séries Temporais (Dados da Apple):** https://bit.ly/3dlSuLg
   
-  * **Plotando dados em Mapas com Folium:** https://bit.ly/30ZExh5
+* **Plotando dados em Mapas com Folium:** https://bit.ly/30ZExh5
   
-  * **Abrindo Gsheet no Colab:** https://bit.ly/3k0Zqjo
+* **Abrindo Gsheet no Colab:** https://bit.ly/3k0Zqjo
   
-  * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
+* **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
  
-  * **Projeto ML01 (Minerando Dados):** https://bit.ly/3jmLb82
+* **Projeto ML01 (Minerando Dados):** https://bit.ly/3jmLb82
   
-  * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
+* **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
+ 
+* **Desafio - Lambda3:** https://bit.ly/34aK0SY
   
-  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
+* **Estatística 0 (Estatística Descritiva):** https://bit.ly/2G2aCh2
   
-  * **Estatística 0 (Estatística Descritiva):** https://bit.ly/2G2aCh2
+* **Estatística 1 (Amostragem):** https://bit.ly/3dtw22J
   
-  * **Estatística 1 (Amostragem):** https://bit.ly/3dtw22J
+* **Estatística 2 (Estatística Descritiva):** https://bit.ly/340uOsG
   
-  * **Estatística 2 (Estatística Descritiva):** https://bit.ly/340uOsG
+* **Estatística 3 (Distribuições):** https://bit.ly/3krCUQJ
   
-  * **Estatística 3 (Distribuições):** https://bit.ly/3krCUQJ
+* **Estatística 4 (Regressões):** https://bit.ly/3kwpVgQ
   
-  * **Estatística 4 (Regressões):** https://bit.ly/3kwpVgQ
+* **Classificação MultiLabel:** http://bit.ly/2YtM5qR
   
-  * **Classificação MultiLabel:** http://bit.ly/2YtM5qR
-  
-  * **Regex (Expressões Regulares):** http://bit.ly/3pxDoHT
+* **Regex (Expressões Regulares):** http://bit.ly/3pxDoHT
 
-  * **Apriori com Python:** http://bit.ly/2NCXpip
+* **Apriori com Python:** http://bit.ly/2NCXpip
   
-  * **Apriori com R:** http://bit.ly/3bCLQQd
+* **Apriori com R:** http://bit.ly/3bCLQQd
 
-  * **ECLAT com R:** http://bit.ly/37P0xi9
+* **ECLAT com R:** http://bit.ly/37P0xi9
+
+* **Personalizando feriados no Prophet:** http://bit.ly/3stmN99
   
 
  
