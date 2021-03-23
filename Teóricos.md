@@ -84,6 +84,10 @@ Para projetos clique [aqui](https://github.com/amadords).
 * **ECLAT com R:** http://bit.ly/37P0xi9
 
 * **Personalizando feriados no Prophet:** http://bit.ly/3stmN99
+
+* **CRM (RFM Analysis):** http://bit.ly/3f5aeNV
+
+* **CRM (RFM Analysis) - Outra abordagem:** http://bit.ly/3f6c5So
   
 
  
